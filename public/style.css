@@ -21,3 +21,9 @@ article{
     font-family: GeoEditRegular, sans-serif;
     font-size: 1.18rem;
 }
+
+footer{
+    padding: 1cm;
+    background-color: cyan;
+    text-align: center;
+}

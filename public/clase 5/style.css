@@ -1,0 +1,29 @@
+h1{
+    font-family: GeoEditBold, sans-serif;
+    font-size: 2.5rem;
+}
+h2{
+    font-family: GeoEditRegular, sans-serif;
+    font-size: 1.1rem;
+}
+figcaption{
+    font-family: GeoEditRegular, sans-serif;
+    font-style: italic;
+    font-size: 12px;
+}
+header{
+    width: 80%;
+    margin: auto;
+}
+article{
+    width: 80%;
+    margin: auto;
+    font-family: GeoEditRegular, sans-serif;
+    font-size: 1.18rem;
+}
+
+footer{
+    padding: 1cm;
+    background-color: cyan;
+    text-align: center;
+}

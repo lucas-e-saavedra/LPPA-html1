@@ -1,0 +1,120 @@
+@font-face {
+    font-family: ExoBold;
+    src: url(Exo-Bold.ttf);
+}@font-face {
+    font-family: Exo;
+    src: url(Exo-Medium.ttf);
+}
+body {
+    font-family: Exo, Helvetica, sans-serif;
+    background-color: #F2F2F2;
+}
+
+header{
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.follow-rrss {
+    float: right;
+}
+
+nav{
+    display: inline;
+}
+nav ul{
+    display: inline;
+}
+li{
+    display: inline;
+}
+li a{
+  text-transform: uppercase;  
+  color: black;
+  text-decoration: none;
+  margin: 1rem;
+}
+
+
+a.tag{
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+main{
+    margin-top: 50px;
+    float: left;
+    width: 70%;
+    padding-left: 5%;
+}
+aside{
+    margin-top: 50px;
+    float: right;
+    width: 20%;
+}
+aside article{
+    background-color: white;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px 50px;
+}
+
+aside :first-child{
+    background-image: url("images/foto-cavani.webp");
+    background-repeat: no-repeat;
+    height: 7rem;
+    color: white;
+}
+
+p.texto-rojo {
+    background-color: #E74C3C;
+}
+figure{
+    width: 100%;
+}
+figure img{
+    width: 100%;
+    margin: auto;
+}
+
+div.fecha{
+    display: inline;
+}
+div.contenido{
+    margin-left: 25%;
+}
+
+@media(max-width: 1024px) {
+    main{
+        margin-top: 50px;
+        width: 100%;
+        padding-left: 5%;
+    }
+    aside{
+        display: none;
+    }
+    header nav{
+        display: none;
+    }
+}
+
+@media(max-width: 600px) {
+    main{
+        margin-top: 50px;
+        width: 100%;
+    }
+    aside{
+        display: none;
+    }
+    header nav{
+        display: none;
+    }
+    div.contenido{
+        width: 100%;
+    }    
+}

@@ -1,9 +1,7 @@
 # LPPA-html1
-primer ejercicio de html
 
-En este trabajo práctico se introducen las primeras etiquetas HTML para practicar la semantica y estructura de un archivo HTML
+La noticia original del ejercicio de clase 4 es:
+https://www.nationalgeographicla.com/animales/2022/04/gansos-guardianes-la-estrategia-de-china-para-fortalecer-su-politica-de-covid-cero 
 
-Seleccion de una noticia rica en contenido semantico HTML.
-Creacion de un archivo html para replicar la noticia seleccionada.
-Implementacion de etiquetas html.
-Subir el archivo al repositorio creado previamente en GitHub.
+La noticia original del ejercicio de clase 7 es:
+https://www.filo.news/deportes/TC2000-Jorge-Barrio-consiguio-su-primer-triunfo-en-la-categoria--20220522-0028.html
